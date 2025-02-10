@@ -1,0 +1,27 @@
+Partlist
+
+Exported from led strip controller.brd at 09/02/2025 08:13 p. m.
+
+EAGLE Version 9.5.2 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package           Library                   Position (mm)         Orientation
+
+BR1      MB8S           SOP245P670X290-4N MB8S                      (20 10)               R180
+C1       10uF           C1206             BeagleBone_Black_Wireless (23 4)                R270
+C2       1uF            C0603             rcl                       (26.3 6.7)            R0
+C3       1uF            C0603             rcl                       (29 4)                R270
+C4       1uF            C0603             rcl                       (21 4)                R270
+C5       0.1uf          C0603             rcl                       (19 4)                R270
+C11      0.1uf          C0603             rcl                       (48.9 26.85)          R0
+JP1                     1X03              pinhead                   (47 4)                R180
+R1       10k            R0603             adafruit                  (26 13)               R90
+R3       330R           R0603             rcl                       (16.5 24)             R180
+R6       10k            R0603             adafruit                  (28 13)               R270
+U$1      ESP32-WROM-32  ESP-32FOOTPRINT   Esp32-wrom-32             (31.52 24.75)         R270
+U$29     TLV75533PDBVR  SOT-23-5          TLV75533PDBVR             (25 3)                R0
+U$33     XUNPU          TS-1089S          TS-1089S-02526            (31 3)                R0
+U$34     XUNPU          TS-1089S          TS-1089S-02526            (38 3)                R0
+X1                      W237-102          con-wago-500              (9 6)                 R90
+X2                      W237-103          con-wago-500              (9 19)                R90
